@@ -1,0 +1,16 @@
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.exe
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.deps.json
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.runtimeconfig.json
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.runtimeconfig.dev.json
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.dll
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ref\ConsoleApp22.dll
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\bin\Debug\net5.0\ConsoleApp22.pdb
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.csproj.AssemblyReference.cache
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.AssemblyInfoInputs.cache
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.AssemblyInfo.cs
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.csproj.CoreCompileInputs.cache
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.dll
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ref\ConsoleApp22.dll
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.pdb
+D:\xProjects\Core\ConsoleApp22\ConsoleApp22\obj\Debug\net5.0\ConsoleApp22.genruntimeconfig.cache
